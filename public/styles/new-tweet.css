@@ -1,0 +1,32 @@
+input {
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 2em;
+}
+.red  {
+
+  color: red;
+
+}
+.counter  {
+  float: right;
+  margin-right: 2em;
+}
+textarea {
+  width: 376px;
+  padding: 5px;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.new-tweet  {
+  border:1px solid grey;
+  border-radius: 10px;
+  background-color: lightgrey;
+  height: 161px;
+}
+h2  {
+  margin-left: 1em;
+  margin-right: 1em;
+  border-bottom: 1px solid black;
+}

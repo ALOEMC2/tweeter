@@ -1,0 +1,87 @@
+#tweets-container article header{
+  background-color: lightgrey;
+  height: 60px;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+}
+#tweets-container article {
+  margin-top: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+#tweets-container article {
+   opacity: 0.50;
+}
+#tweets-container article:hover {
+   opacity: 1.0;
+}
+
+
+}
+#tweets-container  article footer p  {
+padding-left: 1em;
+border-top:1px solid grey;
+padding-top: 10px;
+}
+#tweets-container  article footer{
+  margin-top: 50px;
+
+}
+
+.name {
+  font-size: 16px;
+}
+
+.smilelogo img{
+  margin-top: 5px;
+  margin-left: 5px;
+  border-radius: 5px;
+  width: 11%;
+  vertical-align: top;
+}
+span.nameright  {
+
+  margin-right: 5px;
+  float:right;
+  padding-top: 10px;
+
+}
+span.nameleft {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 2.25em;
+padding-top: 10px;
+    margin-left: 5px;
+ }
+ .header span {
+  vertical-align: top;
+ }
+ .heart img{
+  width:5%;
+  margin-right: 5px;
+  float: right;
+ }
+ .flag img{
+  width:5%;
+  margin-right: 5px;
+  float: right;
+ }
+ .arrow img{
+  width:5%;
+  margin-right: 5px;
+  float: right;
+ }
+ .date  {
+  margin-left: 5px;
+ }
+ .data  {
+  font-size: 1.5em;
+  margin-left: 1em;
+  padding-top: 30px;
+ }
+ div.footer  {
+    border-top: 1px solid grey;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    vertical-align: middle;
+ }

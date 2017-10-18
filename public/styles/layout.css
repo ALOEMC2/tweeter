@@ -1,4 +1,4 @@
-/*
+
  * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
  * https://css-tricks.com/international-box-sizing-awareness-day/
  * Do not modify these two selectors, please
@@ -15,11 +15,17 @@ html {
  */
 
 body {
-  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  padding-top: 140px;
   color: #244751;
   background-color: #eee;
 }
 
-/*
- * Additional CSS can be defined below or in other CSS files, as per instructions
- */
+.container{
+  width: 450px;
+  position: relative;
+  background-color: #eee;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
