@@ -4,8 +4,10 @@ Welcome to Tweeter, this is a full stack web application built with node and exp
 
 ## Getting Started
 - Install all dependencies (using npm install).
-Run the development web server using the server/index.js
+- Run the development web server using the server/index.js
 
+
+!["Tweeter home page"](https://github.com/ALOEMC2/tweeter/blob/master/docs/Tweeter%20home%20page.png)
 
 ## Dependencies
 
